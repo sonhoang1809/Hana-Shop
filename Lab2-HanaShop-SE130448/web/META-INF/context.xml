@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Lab2-HanaShop-SE130448">
+    <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" name="DBCon"
+              username="sa" password="123" type="javax.sql.DataSource"
+              url="jdbc:sqlserver://localhost:1433;databasename=Lab02_HanaShop">
+    </Resource>
+</Context>
